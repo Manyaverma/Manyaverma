@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <img src="https://s4.gifyu.com/images/Red-and-Blue-Geometric-Photo-Tech-and-Gaming-Facebook-Cover.gif" alt="Hero image">
 
 <!--
