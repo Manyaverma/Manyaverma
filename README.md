@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://s4.gifyu.com/images/Red-and-Blue-Geometric-Photo-Tech-and-Gaming-Facebook-Cover.gif" alt="Hero image">
 
 <!--
 **Manyaverma/Manyaverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="500" height="320" />
+
