@@ -1,4 +1,4 @@
-<img src="https://tenor.com/embed.js" alt="Hero image">
+<img src="https://tenor.com/view/gif-26529892" alt="Hero image">
 
 
 <!--
