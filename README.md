@@ -1,4 +1,4 @@
-<img src="https://gfycat.com/agedarcticlangur" alt="Hero image">
+<img src="https://gfycat.com/agedarcticlangur" alt="image">
 
 
 <!--
