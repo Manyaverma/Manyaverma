@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/DYcqCsWywgDxvlTdKU" alt="Hero image">
+<img src="https://gfycat.com/agedarcticlangur" alt="Hero image">
 
 
 <!--
