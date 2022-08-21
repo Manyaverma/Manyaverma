@@ -1,5 +1,5 @@
 
-<img src="https://giphy.com/gifs/cgMq5C1TN4iDxHBA06" alt="Hero image">
+<img src="https://media.giphy.com/media/cgMq5C1TN4iDxHBA06/giphy.gif" alt="Hero image">
 
 <!--
 **Manyaverma/Manyaverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
