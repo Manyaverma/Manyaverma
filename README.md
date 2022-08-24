@@ -1,4 +1,4 @@
-<img src="https://giphy.com/embed/DYcqCsWywgDxvlTdKU" alt="image">
+<img src="https://giphy.com/embed/DYcqCsWywgDxvlTdKU.gif" alt="image">
 
 
 <!--
